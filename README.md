@@ -20,4 +20,4 @@ MITRE ATLAS v5.4 | OWASP Top 10 for Agentic Applications (2026) | OWASP LLM Top 
 
 ---
 
-_Generated automatically. Last sync: 2026-04-24 10:17 local._
+_Generated automatically. Last sync: 2026-04-24 10:21 local._
