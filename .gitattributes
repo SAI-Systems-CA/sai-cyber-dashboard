@@ -1,0 +1,4 @@
+﻿*.xlsx binary
+*.html text eol=lf
+*.jsx text eol=lf
+*.md text eol=lf
